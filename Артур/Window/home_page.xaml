@@ -43,7 +43,7 @@
         <Button Content="Посмотреть" HorizontalAlignment="Left" Height="68" Margin="32,33,0,0" VerticalAlignment="Top" Width="195" Click="Button_Click"/>
         <Button Content="Добавить запись" HorizontalAlignment="Left" Height="68" Margin="32,106,0,0" VerticalAlignment="Top" Width="195" Click="Button_Click_1"/>
         <Button Content="Распечатать" HorizontalAlignment="Left" Height="68" Margin="32,179,0,0" VerticalAlignment="Top" Width="195" Click="Button_Click_2"/>
-        <!--<Button x:Name="btn" BorderBrush="Transparent" Background="Transparent" Style="{StaticResource MyButtonStyle}" Template="{DynamicResource ButtonTemplate}"   HorizontalAlignment="Left" Height="399" Margin="386,10,0,0" VerticalAlignment="Top" Width="396" Click="Button_Click_3" />-->
+        <Button x:Name="btn" BorderBrush="Transparent" Background="Transparent" Style="{StaticResource MyButtonStyle}" Template="{DynamicResource ButtonTemplate}"   HorizontalAlignment="Left" Height="399" Margin="386,10,0,0" VerticalAlignment="Top" Width="396" Click="Button_Click_3" />
 
     </Grid>
 </Window>
