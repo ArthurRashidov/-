@@ -1,0 +1,185 @@
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Артур.csprojAssemblyReference.cache
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Show.baml
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Game.g.cs
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\home_page.g.cs
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Insert.g.cs
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\MainWindow.g.cs
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Print.g.cs
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Show.g.cs
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\App.g.cs
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Артур_Content.g.cs
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Артур_MarkupCompile.cache
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Артур_MarkupCompile.lref
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\SuperDB.mdf
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\SuperDB_log.ldf
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\Артур.exe.config
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\Артур.exe
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\Артур.pdb
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\shapo\source\repos\Артур\Артур\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Game.baml
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\home_page.baml
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Insert.baml
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\MainWindow.baml
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Print.baml
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Артур.g.resources
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Артур.Properties.Resources.resources
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Артур.csproj.GenerateResource.cache
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Артур.csproj.CoreCompileInputs.cache
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Артур.csproj.CopyComplete
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Артур.exe
+C:\Users\shapo\source\repos\Артур\Артур\obj\Debug\Артур.pdb
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Артур.csprojAssemblyReference.cache
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Артур.exe
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Артур.pdb
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Show.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\home_page.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Insert.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\MainWindow.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Print.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Show.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\App.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Артур_Content.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Артур_MarkupCompile.cache
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Артур_MarkupCompile.lref
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\SuperDB.mdf
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\SuperDB_log.ldf
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\Артур.exe.config
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\Артур.exe
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\Артур.pdb
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\home_page.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Insert.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\MainWindow.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Print.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Артур.g.resources
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Артур.Properties.Resources.resources
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Артур.csproj.GenerateResource.cache
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Артур.csproj.CoreCompileInputs.cache
+C:\Users\shapo\OneDrive\Рабочий стол\Артур\Артур\obj\Debug\Артур.csproj.CopyComplete
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\SuperDB.mdf
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\SuperDB_log.ldf
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\Артур.exe.config
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\Артур.exe
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\Артур.pdb
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\Igor\Desktop\Артур\Артур\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур.csproj.SuggestedBindingRedirects.cache
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\App.g.cs
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур_Content.g.cs
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур_MarkupCompile.cache
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур_MarkupCompile.lref
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\MainWindow.baml
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур.g.resources
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур.Properties.Resources.resources
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур.csproj.CopyComplete
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур.exe
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Артур.pdb
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\Show.baml
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\GameWindow.g.cs
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\home_page.g.cs
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\Insert.g.cs
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\Print.g.cs
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\Show.g.cs
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\GameOverWindow.g.cs
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\GameWindow.baml
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\home_page.baml
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\Insert.baml
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\Print.baml
+C:\Users\Igor\Desktop\Артур\Артур\obj\Debug\Window\GameOverWindow.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\SuperDB.mdf
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\SuperDB_log.ldf
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\Артур.exe.config
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\Артур.exe
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\Артур.pdb
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Артур.csprojAssemblyReference.cache
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\Show.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\GameOverWindow.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\GameWindow.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\home_page.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\Insert.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\MainWindow.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\Print.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\Show.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\App.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Артур_Content.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Артур_MarkupCompile.cache
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Артур_MarkupCompile.lref
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\GameOverWindow.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\GameWindow.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\home_page.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\Insert.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\MainWindow.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Window\Print.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Артур.g.resources
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Артур.Properties.Resources.resources
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Артур.csproj.GenerateResource.cache
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Артур.csproj.CoreCompileInputs.cache
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Артур.csproj.CopyComplete
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Артур.exe
+C:\Users\shapo\OneDrive\Рабочий стол\Новая папка\Артур\Артур\obj\Debug\Артур.pdb
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\SuperDB.mdf
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\SuperDB_log.ldf
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\Артур.exe.config
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\Артур.exe
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\Артур.pdb
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\User\Desktop\Артур\Артур\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Артур.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\Show.baml
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\GameOverWindow.g.cs
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\GameWindow.g.cs
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\home_page.g.cs
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\Insert.g.cs
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\Print.g.cs
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\Show.g.cs
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Артур_Content.g.cs
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Артур_MarkupCompile.cache
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Артур_MarkupCompile.lref
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\GameOverWindow.baml
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\GameWindow.baml
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\home_page.baml
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\Insert.baml
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Window\Print.baml
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Артур.g.resources
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Артур.Properties.Resources.resources
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Артур.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Артур.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Артур.csproj.CopyComplete
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Артур.exe
+C:\Users\User\Desktop\Артур\Артур\obj\Debug\Артур.pdb
